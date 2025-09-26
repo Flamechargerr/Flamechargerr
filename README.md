@@ -32,8 +32,8 @@ class AnamayTripathy {
       "🛡️ HackOps - Cyber Defense Simulation",
       "🌱 Flora Fight Frenzy - Environmental Gaming",
       "📧 InternMailer - Application Automation",
-      "🔍 CrimeConnect - Investigation Mapping",
-      "📚 ShelfWise - Intelligent Content Management",
+      "� ICrimeConnect - Investigation Mapping",
+      "� ShelfWisee - Intelligent Content Management",
       "🎫 Anamay BMS - AI/AR/NFT Ticketing System",
       "⚽ VARtificial Intelligence - AI Football Referee"
     ];
@@ -49,7 +49,6 @@ class AnamayTripathy {
     };
   }
 }
-
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -76,7 +75,6 @@ Full-Stack Development: 🌐 End-to-end solutions
 Real-time Systems: ⚡ Live data processing
 UI/UX Design: 🎨 User-centered experiences
 Automation: 🤖 Streamlining workflows
-
 ```
 
 </div>
