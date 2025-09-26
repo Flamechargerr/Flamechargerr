@@ -14,13 +14,15 @@
   <img src="https://img.shields.io/badge/CODE%20STATUS-ALWAYS%20SHIPPING-success?style=for-the-badge&logo=rocket" alt="Shipping"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; ***MEET THE DIGITAL ARCHITECT*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="600">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50px" /> &nbsp; ***MEET THE DIGITAL ARCHITECT*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50px" />
 
 <table>
 <tr>
@@ -138,13 +140,15 @@ console.log("🚀 Ready to revolutionize your company!");
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> &nbsp; ***TECH ARSENAL THAT BREAKS THE INTERNET*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644507-9c0a4b5a-6f44-4d87-967c-29cee73d9bcd.gif" width="50" /> &nbsp; ***TECH ARSENAL THAT BREAKS THE INTERNET*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216644507-9c0a4b5a-6f44-4d87-967c-29cee73d9bcd.gif" width="50" />
 
 <div align="center">
 
@@ -182,7 +186,7 @@ Power: MAXIMUM OVERDRIVE
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100">
 
 **🌐 FULL-STACK MASTERY**
 ```yaml
@@ -196,7 +200,7 @@ Power: GODLIKE ABILITIES
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100">
 
 **⚡ REAL-TIME SYSTEMS**
 ```yaml
@@ -212,7 +216,7 @@ Power: SUPERSONIC VELOCITY
 <tr>
 <td align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/219923831-2221b873-5650-4b63-8dd2-b9b6d9d0d508.gif" width="100">
 
 **🤖 AUTOMATION GENIUS**
 ```yaml
@@ -257,13 +261,15 @@ Power: REALITY-BENDING CREATIVITY
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" /> &nbsp; ***REVOLUTIONARY PROJECTS THAT BREAK REALITY*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649450-5d22683c-4ab1-4b6c-8b2d-d7ce34b8e5b5.gif" width="600">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644505-bd5c02a1-5c79-4c4f-a78b-46cd60877741.gif" width="50" /> &nbsp; ***REVOLUTIONARY PROJECTS THAT BREAK REALITY*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216644505-bd5c02a1-5c79-4c4f-a78b-46cd60877741.gif" width="50" />
 
 <div align="center">
 
@@ -279,10 +285,12 @@ Power: REALITY-BENDING CREATIVITY
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%">
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/216649464-c9c044a4-a0d9-4141-b1b8-7e7e18f8b4e8.gif" width="600">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" /> &nbsp; ***GITHUB ANALYTICS THAT SHATTER RECORDS*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
@@ -327,13 +335,15 @@ Power: REALITY-BENDING CREATIVITY
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212751171-b92a1b54-8b51-4fbc-9bda-de394ccbae35.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> &nbsp; ***CONNECT WITH THE LEGEND*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="600">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" /> &nbsp; ***CONNECT WITH THE LEGEND*** &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" />
 
 <div align="center">
 
@@ -405,10 +415,12 @@ Making impossible possible
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-c7b6c4c4-8b51-4fbc-9bda-de394ccbae35.gif" width="100%">
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/216649499-bd93ec0c-9100-4d6e-8a5e-c5b8949f8a7a.gif" width="600">
 </div>
 
 <div align="center">
