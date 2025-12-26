@@ -129,18 +129,18 @@ Canvas API, Game Physics, Real-time Systems
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Flamechargerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Flamechargerr&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Flamechargerr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Flamechargerr&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flamechargerr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Flamechargerr&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
 </div>
 
 <div align="center">
