@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=ANAMAY%20TRIPATHY&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Full-Stack%20Development%20%7C%20AI%20%26%20ML&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D4AA,4ECDC4&height=250&section=header&text=ANAMAY%20TRIPATHY&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Full-Stack%20Development%20%7C%20AI%20%26%20ML&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -208,5 +208,5 @@ Backend scaling, real-time systems, edge computing
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D4AA,4ECDC4&height=150&section=footer&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
 </div>
