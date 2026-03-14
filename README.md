@@ -152,8 +152,8 @@ const anamay = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flamechargerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&hide=stars,issues,prs" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Flamechargerr&theme=radical&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FFE66D&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=555555" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flamechargerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Flamechargerr&theme=radical&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FFE66D&currStreakLabel=00D4AA&sideLabels=c9d1d9" />
 </div>
 
 <br/>
@@ -177,9 +177,9 @@ const anamay = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/dist/github-snake-dark.svg" />
   </picture>
 </div>
 
