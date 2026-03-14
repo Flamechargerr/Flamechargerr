@@ -61,18 +61,21 @@ const anamay = {
 
 ### 🤖 AI / ML / Data
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
+
 <br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=docker,git,github,supabase,postgres,vercel,linux&perline=7" />
 
 ### 🎮 Specialized
-![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white)
+
+![deck.gl](https://img.shields.io/badge/deck.gl-FF6600?style=for-the-badge&logo=uber&logoColor=white) 
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white) 
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white) 
 ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 </div>
@@ -152,21 +155,21 @@ const anamay = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flamechargerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Flamechargerr&theme=radical&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FFE66D&currStreakLabel=00D4AA&sideLabels=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flamechargerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&rank_icon=github&cache_seconds=1" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Flamechargerr&theme=radical&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FFE66D&currStreakLabel=00D4AA&sideLabels=c9d1d9&v=1.0.1" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" />
+  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8&v=1.0.1" />
 </div>
 
 <br/>
 
 <!-- TROPHY -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flamechargerr&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Flamechargerr&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&v=1.0.1" />
 </div>
 
 <!-- ANIMATED DIVIDER -->
@@ -177,9 +180,9 @@ const anamay = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flamechargerr/Flamechargerr/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -187,7 +190,7 @@ const anamay = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flamechargerr&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=4ECDC4&point=FFE66D&area=true&area_color=00D4AA" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flamechargerr&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=4ECDC4&point=FFE66D&area=true&area_color=00D4AA&v=1.0.1" width="100%" />
 </div>
 
 <!-- ANIMATED DIVIDER -->
@@ -197,7 +200,7 @@ const anamay = {
 <div align="center">
 
 ### 💡 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&v=1.0.1" />
 
 </div>
 
