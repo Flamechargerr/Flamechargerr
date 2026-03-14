@@ -1,212 +1,175 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D4AA,4ECDC4&height=250&section=header&text=ANAMAY%20TRIPATHY&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Full-Stack%20Development%20%7C%20AI%20and%20ML&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4ECDC4&height=220&section=header&text=ANAMAY%20TRIPATHY&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20with%20code%2C%20one%20commit%20at%20a%20time&descAlignY=56&descSize=16&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=900&height=100&lines=3rd+Year+Data+Science+%40+MIT+Manipal;Building+Practical+Tech+Solutions+%7C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=80&lines=3rd+Year+Data+Science+%40+MIT+Manipal;Full-Stack+%E2%80%A2+AI%2FML+%E2%80%A2+GPU+Visualization+%E2%80%A2+Smart+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Flamechargerr">
-    <img src="https://komarev.com/ghpvc/?username=Flamechargerr&style=for-the-badge&color=4ECDC4&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/Flamechargerr?tab=followers">
-    <img src="https://img.shields.io/github/followers/Flamechargerr?style=for-the-badge&color=4ECDC4&labelColor=1a1b27&label=FOLLOWERS&logo=github" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Flamechargerr?tab=stars">
-    <img src="https://img.shields.io/github/stars/Flamechargerr?style=for-the-badge&color=FFE66D&labelColor=1a1b27&label=STARS&logo=star" alt="Stars"/>
-  </a>
+  <a href="https://github.com/Flamechargerr"><img src="https://komarev.com/ghpvc/?username=Flamechargerr&style=for-the-badge&color=4ECDC4&labelColor=0d1117&label=PROFILE+VIEWS" /></a>&nbsp;
+  <a href="https://github.com/Flamechargerr?tab=followers"><img src="https://img.shields.io/github/followers/Flamechargerr?style=for-the-badge&color=4ECDC4&labelColor=0d1117&label=FOLLOWERS&logo=github" /></a>&nbsp;
+  <a href="https://github.com/Flamechargerr?tab=stars"><img src="https://img.shields.io/github/stars/Flamechargerr?style=for-the-badge&color=FFE66D&labelColor=0d1117&label=TOTAL+STARS&logo=star" /></a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 👋 About Me
-
-<table>
-<tr>
-<td width="55%">
+## ⚡ About
 
 ```typescript
 const anamay = {
   location: "Mumbai, India 🇮🇳",
-  education: "B.Tech Data Science @ MIT Manipal",
-  currentFocus: ["AI/ML", "Full-Stack Development", "Smart Systems"],
+  education: "B.Tech Data Science @ MIT Manipal (3rd Year)",
   
-  technologies: {
-    languages: ["TypeScript", "Python", "JavaScript"],
-    frontend: ["React", "Tailwind CSS", "Canvas API"],
-    backend: ["Node.js", "Supabase", "REST APIs"],
-    tools: ["Git", "Figma", "VS Code"]
+  stack: {
+    languages:  ["TypeScript", "Python", "JavaScript", "SQL"],
+    frontend:   ["React", "Next.js", "Framer Motion", "Tailwind CSS"],
+    backend:    ["Node.js", "Supabase", "REST APIs", "PostgreSQL"],
+    dataScience:["Pandas", "Scikit-learn", "TensorFlow", "Matplotlib"],
+    devOps:     ["Git", "Docker", "Vite", "Vercel"],
+    creative:   ["deck.gl", "MapLibre GL", "Canvas API", "WebGL"]
   },
   
-  philosophy: "Build useful tech, learn fast, ship often 🚀"
+  currentlyBuilding: "GPU-powered 3D geospatial visualization platform",
+  philosophy: "Ship fast, learn faster, build things that matter 🚀"
 };
 ```
 
-</td>
-<td width="45%">
+<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
-</div>
+## 🔥 Featured Projects
 
-### 🎯 Current Focus
-- 🤖 Exploring AI/ML applications in real-world problems
-- 🌐 Building full-stack web applications
-- 🎮 Creating interactive experiences with game development
-- 📊 Data analysis and visualization
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌍 Smart Maps 3D</h3>
+      <p align="center">
+        <a href="https://github.com/Flamechargerr/smart-maps-3d">
+          <img src="https://img.shields.io/badge/GPU--Powered_3D_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Revolutionary mapping platform with <b>deck.gl GPU visualization</b> — 3D hexagon heatmaps, animated trip layers, arc connections. Built on MapLibre GL + React + Framer Motion. 100% free, no API keys.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/deck.gl-FF6600?style=flat-square&logo=uber&logoColor=white" />
+        <img src="https://img.shields.io/badge/MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛡️ HackOps</h3>
+      <p align="center">
+        <a href="https://github.com/Flamechargerr/HackOps">
+          <img src="https://img.shields.io/badge/Cybersecurity_Training-ea4335?style=for-the-badge&logo=hackthebox&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Interactive cybersecurity training platform with <b>realistic hacking simulations</b>, CTF-style challenges, terminal emulation, and progressive difficulty. Full-stack with auth and progress tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🕵️ CrimeConnect</h3>
+      <p align="center">
+        <a href="https://github.com/Flamechargerr/crime-connect-fbi">
+          <img src="https://img.shields.io/badge/Criminal_Network_Analysis-9c27b0?style=for-the-badge&logo=graphql&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><b>Graph-based criminal network analyzer</b> for visualizing relationships, hierarchies, and crime patterns. Interactive force-directed graphs with filtering, search, and data import.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📧 InternMailer</h3>
+      <p align="center">
+        <a href="https://github.com/Flamechargerr/InternMailer">
+          <img src="https://img.shields.io/badge/Automated_Outreach-34a853?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><b>Automated internship application tool</b> — bulk personalized email outreach with template engine, CSV import, rate limiting, and delivery tracking. Built for scale.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/Flamechargerr/portfoliofinal">
+          <img src="https://img.shields.io/badge/Personal_Portfolio-0077B5?style=for-the-badge&logo=safari&logoColor=white" />
+        </a>
+      </p>
+      <p align="center"><b>Personal portfolio website</b> with smooth animations, project showcases, and responsive design. Built with modern web technologies and deployed on Vercel.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚽ VARtificial Intelligence</h3>
+      <p align="center">
+        <a href="https://github.com/Flamechargerr/VARtificial-Intelligence">
+          <img src="https://img.shields.io/badge/ML_Match_Predictor-fbbc04?style=for-the-badge&logo=tensorflow&logoColor=black" />
+        </a>
+      </p>
+      <p align="center"><b>ML-powered football match predictor</b> using historical data, statistical modeling, and feature engineering. Analyzes team form, head-to-head records, and venue factors.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=typescript,python,javascript,react,tailwind,nodejs,supabase,figma,git,vscode&theme=dark" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 💡 AI & ML
-Machine Learning, Data Analysis, Predictive Modeling, Computer Vision
-
-</td>
-<td align="center" width="33%">
-
-### 🌐 Full-Stack
-React, TypeScript, Node.js, Supabase, REST APIs
-
-</td>
-<td align="center" width="33%">
-
-### 🎮 Interactive
-Canvas API, Game Physics, Real-time Systems
-
-</td>
-</tr>
-</table>
-
+  <img src="https://skillicons.dev/icons?i=typescript,python,react,nextjs,tailwind,nodejs,supabase,postgres,git,docker,figma,vscode&theme=dark&perline=6" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Link |
-|:---:|:---|:---:|:---:|
-| **🛡️ HackOps** | Interactive cybersecurity training platform with realistic hacking simulations and security challenges | `TypeScript` `React` `Supabase` | [View →](https://github.com/Flamechargerr/HackOps) |
-| **⚽ VARtificial Intelligence** | ML-powered football match predictor using historical data and statistical analysis | `TypeScript` `Python` `ML` | [View →](https://github.com/Flamechargerr/VARtificial-Intelligence) |
-| **🕵️ CrimeConnect** | Graph-based criminal network analysis tool for visualizing relationships and patterns | `TypeScript` `React` `Supabase` | [View →](https://github.com/Flamechargerr/crime-connect-fbi) |
-| **🌱 Flora Fight Frenzy** | Action-packed tower defense game inspired by Plants vs. Zombies with custom game physics | `JavaScript` `Canvas API` | [View →](https://github.com/Flamechargerr/flora-fight-frenzy) |
-| **📚 ShelfWise** | Smart content management and organization system for personal knowledge management | `TypeScript` `React` | [View →](https://github.com/Flamechargerr/ShelfWise) |
-| **🎫 Anamay BMS** | Event ticketing platform clone with modern UI/UX design | `TypeScript` `React` | [View →](https://github.com/Flamechargerr/Anamay-BMS) |
-| **📧 InternMailer** | Automated application outreach tool for streamlining job applications | `Python` `Automation` | [View →](https://github.com/Flamechargerr/InternMailer) |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Flamechargerr&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Flamechargerr&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Flamechargerr&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Flamechargerr&theme=react&hide_border=true&background=0d1117&stroke=4ECDC4&ring=4ECDC4&fire=FFE66D&currStreakLabel=4ECDC4" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flamechargerr&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
-</div>
--->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Flamechargerr&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
 </div>
 
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:tripathy.anamay23@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/anamay-tripathy">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Flamechargerr">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-### 💬 Open to Collaborate On
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**🎯 Hackathons**
 <br/>
-AI/ML challenges and innovative problem-solving
 
-</td>
-<td align="center" width="33%">
+## 🤝 Connect
 
-**🚀 Projects**
+<div align="center">
+  <a href="mailto:tripathy.anamay23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/anamay-tripathy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Flamechargerr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
 <br/>
-Full-stack applications and startup MVPs
-
-</td>
-<td align="center" width="33%">
-
-**💡 Learning**
-<br/>
-Backend scaling, real-time systems, edge computing
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  
-### 💭 Philosophy
-
-> *"Build useful tech, learn fast, and always ship."*
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D4AA,4ECDC4&height=150&section=footer&text=Let's%20Build%20Something%20Great&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4ECDC4&height=120&section=footer" />
 </div>
