@@ -91,20 +91,35 @@ const anamay = {
 
 <table border="0">
 <tr>
-<td width="33%">
+<td width="33%" align="center" valign="top">
 <h3 align="center">🌍 Smart Maps 3D</h3>
-<p align="center"><strong>Next-Gen Geospatial</strong></p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Flamechargerr&repo=smart-maps-3d&theme=radical&hide_border=true" width="100%"/>
+<p align="center"><strong>Next-Gen Geospatial Engine</strong></p>
+<p align="center">Advanced WebGL rendering with <i>deck.gl</i>. Real-time orbital dynamics and glassmorphic UI orchestration.</p>
+<p align="center">
+<a href="https://github.com/Flamechargerr/smart-maps-3d"><img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 </td>
-<td width="33%">
+<td width="33%" align="center" valign="top">
 <h3 align="center">🛡️ HackOps</h3>
-<p align="center"><strong>Security Training</strong></p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Flamechargerr&repo=HackOps&theme=radical&hide_border=true" width="100%"/>
+<p align="center"><strong>Security Training Platform</strong></p>
+<p align="center">Interactive CTF environment with real-time terminal simulation and automated threat assessment logic.</p>
+<p align="center">
+<a href="https://github.com/Flamechargerr/HackOps"><img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 </td>
-<td width="33%">
+<td width="33%" align="center" valign="top">
 <h3 align="center">🕵️ CrimeConnect</h3>
 <p align="center"><strong>Network Intelligence</strong></p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Flamechargerr&repo=crime-connect-fbi&theme=radical&hide_border=true" width="100%"/>
+<p align="center">Force-directed graphs, PageRank analysis, and anomaly detection with WebGL rendering for 10K+ nodes.</p>
+<p align="center">
+<a href="https://github.com/Flamechargerr/crime-connect-fbi"><img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 </td>
 </tr>
 </table>
@@ -140,25 +155,10 @@ const anamay = {
 </tr>
 </table>
 
-### 📈 Verified Contribution Summary (Internal Audit)
-<table border="0">
-<tr>
-<td width="33%">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Flamechargerr&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=stars,issues,prs,contribs&rank_icon=github&cache_seconds=1" />
-</td>
-<td width="33%">
-<img width="100%" src="https://streak-stats.demolab.com/?user=Flamechargerr&theme=radical&hide_border=true&background=0d1117&stroke=00D4AA&ring=00D4AA&fire=FFE66D&currStreakLabel=00D4AA&sideLabels=c9d1d9&cache_seconds=1" />
-</td>
-<td width="33%">
-<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8&v=2.0" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-> [!IMPORTANT]
-> **Audit Note**: Internal systems verify **5,064 commits** across 20+ repositories in the last 12 months. Any discrepancy in third-party cards is due to API indexing latency and cache propagation.
+### 📈 Language & Technology Distribution
+<div align="center">
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Flamechargerr&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8&v=2.0" />
+</div>
 
 </div>
 
